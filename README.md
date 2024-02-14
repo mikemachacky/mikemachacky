@@ -6,9 +6,10 @@
 👩‍💻 Currently pursuing my degree in Computer Engineering at Opole University of Technology, I'm equipped with a solid foundation in programming and a hunger to explore cutting-edge technologies.
 
 🛠️ What I'm Up To:
-🌼 Crafting intuitive mobile .NET apps
-🌹 Building sleek and responsive Angular applications
+🌼 Crafting intuitive mobile .NET apps | 
+🌹 Building sleek and responsive Angular applications | 
 🌱 Constantly honing my skills and expanding my horizons! 💡
+<br>
 🌟 Let's connect and explore how I can contribute to your team's success! Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/magdalena-machacka-41686a257/)) or email. <br> Let's build the future together! 🌟
 
 
