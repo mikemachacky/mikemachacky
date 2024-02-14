@@ -1,13 +1,11 @@
 # 👋 Hello there! I'm Mag 🌱
 🚀 Welcome to my world of tech and innovation! As an ambitious Computer Science student, I'm driven by a passion to create, learn, and excel in the dynamic field of technology. 🚀
 
-🎓 My journey began at electrical high school, where I nurtured my curiosity for all things tech. Now, I'm thriving in academia, eager to embark on new challenges and opportunities! 🌟
-
 👩‍💻 Currently pursuing my degree in Computer Engineering at Opole University of Technology, I'm equipped with a solid foundation in programming and a hunger to explore cutting-edge technologies.
 
-🛠️ What I'm Up To:
-🌼 Crafting intuitive mobile .NET apps | 
-🌹 Building sleek and responsive Angular applications | 
+🛠️ What I'm Up To: <br>
+🌼 Crafting intuitive mobile .NET apps <br>
+🌹 Building sleek and responsive Angular applications <br>
 🌱 Constantly honing my skills and expanding my horizons! 💡
 <br>
 🌟 Let's connect and explore how I can contribute to your team's success! Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/magdalena-machacka-41686a257/)) or email. <br> Let's build the future together! 🌟
