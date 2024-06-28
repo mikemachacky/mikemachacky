@@ -3,7 +3,7 @@
 
 👩‍💻 Currently pursuing my degree in Computer Engineering at Opole University of Technology, I'm equipped with a solid foundation in programming and a hunger to explore cutting-edge technologies.
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/mikemachacky?theme=dark&font=Acme&ext=heatmap)
+<!--![LeetCode Stats](https://leetcard.jacoblin.cool/mikemachacky?theme=dark&font=Acme&ext=heatmap)-->
 
 
 # 💻 Tech Stack:
